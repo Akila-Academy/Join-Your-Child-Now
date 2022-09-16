@@ -5,31 +5,31 @@
 
 }
 #memory{
-    background-image: url(/images/Capture.png);
+    background-image: url(Capture.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
 }
 #kidseng{
-    background-image: url(/images/children-learn-english-online-home-homeschooling-distance-education-kids-children-learn-english-online-home-176780837.jpg);
+    background-image: url(children-learn-english-online-home-homeschooling-distance-education-kids-children-learn-english-online-home-176780837.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
 }
 #phonics{
-    background-image: url(/images/istockphoto-1145843759-612x612.jpg);
+    background-image: url(istockphoto-1145843759-612x612.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
 }
 #kalfun{
-    background-image: url(/images/kids-math-lessons-young-children-learning-how-to-do-mathematics-44456043.jpg);
+    background-image: url(kids-math-lessons-young-children-learning-how-to-do-mathematics-44456043.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
 }
 .bg-grey{
-    background-image: url(/images/abacus.jpg);
+    background-image: url(abacus.jpg);
     height: 100%;
     width: 100%;
 }
@@ -38,20 +38,20 @@
     transition: 0.8s ease-in-out;
 }
 #abacus{
-    background-image: url(/images/abacus.jpg);
+    background-image: url(abacus.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
 }
 #spellbee{
-    background-image: url(/images/istockphoto-522422295-612x612.jpg);
+    background-image: url(istockphoto-522422295-612x612.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
 }
 
 .vedic{
-    background-image: url(/images/vedic-maths.jpg);
+    background-image: url(vedic-maths.jpg);
 }
 
 /* .homePage{
