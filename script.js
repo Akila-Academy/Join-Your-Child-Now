@@ -1,5 +1,5 @@
 function DaytoNight() {
-    if (this.scrollY > this.innerHeight / 1.2) {
+    if (this.scrollY > this.innerHeight / 1.5) {
         
        document.body.classList.add('newNight') 
     }
