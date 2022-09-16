@@ -33,8 +33,13 @@
     height: 100%;
     width: 100%;
 }
-.newNight{
+
+#index{
     background-color: #282633;
+ 
+}
+.newNight{
+    background-color: #ffffff;
     transition: 0.8s ease-in-out;
 }
 #abacus{
