@@ -65,9 +65,9 @@
 
 @media (max-width: 992px) { 
 
-    *{
+/*     *{
         visibility: hidden;
-    }
+    } */
 
     .lg-add1{
         position:absolute; 
